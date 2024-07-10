@@ -2,10 +2,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Computer science student, IT Programmer from Tajikistan 🇬🇷</h2>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/your-username?label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/your-username?label=Stars)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/your-username?label=Sponsors)
+![Profile Views](https://komarev.com/ghpvc/?AlexMadibaev=your-AlexMadibaev&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/your-AlexMadibaev?label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/your-AlexMadibaev?label=Stars)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/your-AlexMadibaev?label=Sponsors)
 
 ![Your Profile Banner](https://media.giphy.com/media/l3vR2ZpCZVWELHeO4/giphy.gif)
 
@@ -28,13 +28,8 @@
 
 ## 📈 Статистика GitHub
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
-## ✨ Проекты
-
-- [Название проекта 1](https://github.com/your-username/project-1) - Краткое описание проекта 1
-- [Название проекта 2](https://github.com/your-username/project-2) - Краткое описание проекта 2
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?AlexMadibaev=your-AlexMadibaev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AlexMadibaev=your-AlexMadibaev&layout=compact&theme=radical)
 
 ## 🏆 Достижения
 
