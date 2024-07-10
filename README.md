@@ -7,7 +7,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/AlexMadibaev?label=Stars)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/AlexMadibaev?label=Sponsors)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
+![Your Profile Banner]([https://media.giphy.com/media/l3vR2ZpCZVWELHeO4/giphy.gif](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png))
 
 # 👋 Привет! Я Алекс Мадибаев
 
