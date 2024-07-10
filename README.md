@@ -1,7 +1,3 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/AlexMadibaev" target="_blank">Alexandr</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">Computer science student, IT Programmer from Tajikistan 🇬🇷</h2>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=AlexMadibaev&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/AlexMadibaev?label=Followers)
 ![GitHub Stars](https://img.shields.io/github/stars/AlexMadibaev?label=Stars)
@@ -9,7 +5,9 @@
 
 ![Your Profile Banner]([https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png])
 
-# 👋 Привет! Я Алекс Мадибаев
+# 👋<h1 align="center">Hi there, I'm <a href="https://github.com/AlexMadibaev" target="_blank">Alexandr</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2 align="center">Computer science student, IT Programmer from Tajikistan 🇬🇷</h2>
 
 Я опытный **Веб/Графический дизайнер** с более чем 5-летним стажем работы. Специализируюсь на создании современных и стильных веб-сайтов, иллюстраций и типографики, адаптированных к предпочтениям клиентов. Работая в рекламном агентстве "Profi Print" в качестве старшего графического/веб-дизайнера и в JSC "Viza Promo" в качестве графического дизайнера, я стремлюсь радовать клиентов креативными и готовыми к использованию продуктами для их бизнеса.
 
