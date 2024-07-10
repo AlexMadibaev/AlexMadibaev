@@ -23,9 +23,9 @@
 
 ## 📫 Как со мной связаться
 
-- Telegram: [Alexandr_Madibaev](https://t.me/Alexandr_Madibaev)
-- Сайт: [alexmadibaev.github.io](https://alexmadibaev.github.io/Madibaev_Alexandr.github.io/#)
-- Email: [a.madibaev@gmail.com](mailto:a.madibaev@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alexandr_Madibaev)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alexmadibaev.github.io/Madibaev_Alexandr.github.io/#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.madibaev@gmail.com)
 
 ## 📈 Статистика GitHub
 
