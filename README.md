@@ -4,7 +4,7 @@
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/AlexMadibaev?label=Sponsors)
 
 
-#<h1 align="center">Hi there, I'm <a href="https://github.com/AlexMadibaev" target="_blank">Alexandr</a> 
+<h1 align="center">Hi there, I'm <a href="https://github.com/AlexMadibaev" target="_blank">Alexandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Computer science student, IT Programmer from Tajikistan 🇬🇷</h2>
 
