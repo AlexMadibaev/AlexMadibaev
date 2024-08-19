@@ -29,11 +29,6 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexMadibaev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMadibaev&layout=compact&theme=radical)
 
-## ✨ Проекты
-
-- [Название проекта 1](https://github.com/AlexMadibaev/project-1) - Краткое описание проекта 1
-- [Название проекта 2](https://github.com/AlexMadibaev/project-2) - Краткое описание проекта 2
-
 ## 🏆 Достижения
 
 - 🎉 Более 100 успешно завершенных проектов
